@@ -64,4 +64,13 @@
         align-items: center;
     }
 }
+.paragraph{
+    text-decoration: none;
+    color: lightslategray;
+}
+
+.icon-design{
+    border: none;
+    font-size: 30px;
+}
 
