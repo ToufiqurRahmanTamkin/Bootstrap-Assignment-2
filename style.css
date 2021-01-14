@@ -1,0 +1,67 @@
+.navbar-toggler{
+    border-color: rgb(0, 0, 0);
+}
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(9,55,244, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.nav-link{
+    color: black;
+}
+
+.btn-style{
+    background-color: rgb(20, 201, 131);
+    border-radius: 10px;
+    color: white;
+    height: 50px;
+    width: 100px;
+    text-decoration: none;
+    border: none;
+    font-size: small;
+    
+}
+.btn-style img{
+    height: 20px;
+    width: 20px;
+}
+#card-style{
+    background-color: rgb(216, 222, 228);
+    border-radius: 20px;
+    
+}
+#card-style > img {
+    height: 200px;
+    width: 170px;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+    border-radius: 50px;
+}
+.last-card{
+    height: 120px;
+    width: 120px;
+}
+
+.alignment{
+    border-radius: 30px;
+}
+.alignment > img{
+    align-items: center;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+    border-radius: 10px;
+}
+.panda-card{
+    border: 0;
+    border-radius: 15px;
+}
+
+@media (max-width: 575.98px) {
+    .last-section{
+        align-items: center;
+    }
+}
+
