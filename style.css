@@ -65,7 +65,6 @@
     }
 }
 .paragraph{
-    text-decoration: none;
     color: lightslategray;
 }
 
@@ -75,6 +74,6 @@
 }
 .gray{
     color: lightslategray;
-    border-radius: 10px;
+
 }
 
